@@ -1,0 +1,11 @@
+.\objects\jtdellaringa_lab05.o: Jtdellaringa_Lab05.s
+.\objects\jtdellaringa_lab05.o: ..\LPC4088\BOARD.S
+.\objects\jtdellaringa_lab05.o: ..\LPC4088\LPC4088.S
+.\objects\jtdellaringa_lab05.o: ..\LPC4088\SYSCTLDEF.S
+.\objects\jtdellaringa_lab05.o: ..\LPC4088\IOCONDEF.S
+.\objects\jtdellaringa_lab05.o: ..\LPC4088\GPIODEF.S
+.\objects\jtdellaringa_lab05.o: ..\LPC4088\SSPDEF.S
+.\objects\jtdellaringa_lab05.o: ..\LPC4088\ADCDEF.S
+.\objects\jtdellaringa_lab05.o: ..\LPC4088\NVICDEF.S
+.\objects\jtdellaringa_lab05.o: ..\LPC4088\TIMERDEF.S
+.\objects\jtdellaringa_lab05.o: ..\LPC4088\PWMDEF.S
